@@ -20,7 +20,7 @@ The application is designed to support learning English. The application is writ
 **4.** The application use dictionaries.txt files to store data.
 
 ## Installation
-**1.** Clone the project from the repository. ( link ``` https://github.com/huynqh0101/Dictionary_OOP.git ```)
+**1.** Clone the project from the repository. ( link ``` [https://github.com/quanghuy150604/Dictionary.git] ```)
 
 **2.** Open the project in the IDE.
 
